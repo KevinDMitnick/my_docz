@@ -10,5 +10,23 @@
     "codeSandbox": true,
     "themeConfig": {}
   },
-  "entries": {}
+  "entries": {
+    "src/index.mdx": {
+      "name": "today",
+      "id": "6576455a124f9aaefd860597f03a8fe4",
+      "filepath": "src/index.mdx",
+      "link": "https://github.com/KevinDMitnick/my_docz/edit/master/src/index.mdx",
+      "slug": "src-index",
+      "route": "/src-index",
+      "order": 0,
+      "menu": null,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "morning",
+          "value": "Morning"
+        }
+      ]
+    }
+  }
 }
