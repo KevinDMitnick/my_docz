@@ -1,0 +1,14 @@
+{
+  "config": {
+    "title": "My Docz",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "ordering": "descending",
+    "version": "1.0.0",
+    "repository": "https://github.com/KevinDMitnick/my_docz",
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {}
+  },
+  "entries": {}
+}
